@@ -8,7 +8,7 @@ public class Cat extends Animal implements Pet {
          super(4);
          name = n;       
     }
-
+ 
     public Cat() {
         super(4); 
         name = "fluffy";
